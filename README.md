@@ -1,5 +1,4 @@
 # Generador de Contraseñas Aleatorias en Python
-Python Password Generator 
 
 import random
 import string
