@@ -1,2 +1,2 @@
-# password-generator-python
+# Generador de Contraseñas Aleatorias en Python
 Python Password Generator 
